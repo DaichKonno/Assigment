@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+body p {
+  width: 100%;
+  margin-left: 100px;
+}
+
+div {
+  width: auto;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+div span{
+font-weight: 600;
+}
+.success-message{
+  width: 500px;
+  height: 28px;
+  padding: 12px;
+  margin-left: 10px;
+  color: #3c763d ;
+  background-color: #dff0d8;
+  border: 1px solid #c6e9a6;
+}
+
+.error-message{
+  width: 500px;
+  height: 28px;
+  padding: 12px;
+  margin-left: 10px;
+  color: #a94442;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
+}
+
+.info-message{
+  width: 500px;
+  height: 28px;
+  padding: 12px;
+  margin-left: 10px;
+  color: #3a87ad;
+  background-color: #d9edf7;
+  border: 1px solid #bce8f1;
+}
